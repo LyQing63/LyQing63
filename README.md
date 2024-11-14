@@ -5,6 +5,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=LyQing63&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=cn&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=LyQing63&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
